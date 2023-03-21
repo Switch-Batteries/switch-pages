@@ -22,8 +22,8 @@ title: Switch Batteries
 email: mike@switchbatteries.com
 description: >- # this means to ignore newlines until "baseurl:"
     Design, manufacture, installation, commissioning & microgrid control
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/" # the subpath of your site, e.g. /blog
+#url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
