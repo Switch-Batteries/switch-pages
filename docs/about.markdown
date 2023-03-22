@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Switch Batteries is an energy company based in Perth, Western Australia. Our primary focus is on designing, manufacturing, installing, and commissioning battery storage solutions for residential, commercial, and industrial customers. 
+We pride ourselves on delivering innovative and cost-effective solutions that help our clients reduce their energy costs and improve their energy efficiency.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+At Switch Batteries, we are committed to providing high-quality and reliable products and services that are tailored to our clients' specific needs. We use the latest technologies and best practices to ensure that our battery storage solutions are efficient, safe, and environmentally friendly.
+Our expertise in integrating different micro-grid equipment types and models enables us to deliver the best possible solution to our clients. Contact us today to learn more about our microgrid control solutions and how we can help you achieve your energy goals.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+[switch-batteries-organization]: https://www.switchbatteries.com/
