@@ -32,13 +32,7 @@ The micro-grid optimiser runs an optimisation procedure to produce the best rech
 ## Microgrid Optimiser Control Hierarchy
 The controller has the following control hierarchy (use a markdown mermaid diagram supported render to see the image below).  
  
-```mermaid
-  graph TD;
-      Microgrid_Optimiser --> Battery_Master_Controller_1;
-      Battery_Master_Controller_1 --> Microgrid_Optimiser;
-      Weather_Forecast_1 --> Microgrid_Optimiser;
-      Weather_Forecast_N --> Microgrid_Optimiser;
-```
+![control heirarchy](./control_hierarchy.drawio.png)
 
 ## Microgrid Optimiser Inputs and Outputs
 The micro-grid optimiser is responsible for reading the following from a battery master controller:
@@ -86,16 +80,10 @@ The microgrid optimiser determines the optimal time to run the generators by min
 
 ## Microgrid Optimiser Control Algorithm
 
-The microgrid optimiser controller runs the following high level state diagram:
-```mermaid
-  graph TD;
-      Startup --> Running;
-      Running --> Fatal --> Startup;
-      Startup --> Fatal;
-      Running --> Stopped;
-      Startup --> Stopped;
-      Stopped --> Startup;
-```
+The microgrid optimiser controller runs the following high level state diagram:  
+
+![high_level_states
+](./high_level_state_diagram.drawio.png)  
 
 ### Startup State
   * Check that all required parameters are set and if not then go to the Fatal state.
