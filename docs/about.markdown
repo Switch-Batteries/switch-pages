@@ -11,5 +11,5 @@ At Switch Batteries, we are committed to providing high-quality and reliable pro
 Our expertise in integrating different micro-grid equipment types and models enables us to deliver the best possible solution to our clients. Contact us today to learn more about our microgrid control solutions and how we can help you achieve your energy goals.
 
 
-
+[Contact](https://www.switchbatteries.com/contact)
 [switch-batteries-organization]: https://www.switchbatteries.com/
