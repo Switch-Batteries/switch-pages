@@ -13,4 +13,4 @@ Our expertise in integrating different micro-grid equipment types and models ena
 
 [Contact](https://www.switchbatteries.com/contact)  /  
 
-[switch-batteries-organization] https://www.switchbatteries.com/
+[[switch-batteries-organization](https://www.switchbatteries.com)]  /
