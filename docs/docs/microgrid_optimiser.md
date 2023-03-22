@@ -30,7 +30,7 @@ Note that the SOC of the battery never reaches less then 10% and starts to incre
 The micro-grid optimiser runs an optimisation procedure to produce the best recharge schedule and the above predictions at set intervals (usually every 3 hours). It regularly checks the last determined best schedule and checks if it is time to start this recharge schedule. If so it will set the battery master controllers recharge low and high state of charge SOC setpoints in order to run the generators at the times specified in the above schedule.  
 
 ## Microgrid Optimiser Control Hierarchy
-The controller has the following control hierarchy (use a markdown mermaid diagram supported render to see the image below).  
+The controller has the following control hierarchy.  
  
 ![control heirarchy](./control_hierarchy.drawio.png)
 
